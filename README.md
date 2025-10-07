@@ -22,7 +22,7 @@ This repository contains the MATLAB implementation of **Agri-DSSA**, a dual self
 ## Requirements
 
 ### Software
-- MATLAB R2021a or later
+- MATLAB R2024a or later
 - Deep Learning Toolbox
 - Image Processing Toolbox
 - Statistics and Machine Learning Toolbox
