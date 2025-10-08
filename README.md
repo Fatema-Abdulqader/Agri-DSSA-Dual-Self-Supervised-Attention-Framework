@@ -88,7 +88,6 @@ The code automatically handles:
 
 ### Ablation Study Functions
 - `removeSpectralAttention()`: Model variant without spectral attention
-- `removeSpatialAttention()`: Model variant without spatial attention  
 - `removeAllAttention()`: Baseline model without attention
 
 ## Outputs
@@ -132,11 +131,9 @@ task = 'regression';    % For chlorophyll estimation
 
 ```
 Agri-DSSA/
-├── Main_AgriDSSA.m              % Main implementation file
-├── references.bib               % Bibliography entries
-├── Indian_Pines.mat            % Example dataset
-├── README.md                   % This file
-└── Results/                    % Generated outputs
+├── Agri_DSSADualSelfSupervised.m              % Main implementation file
+├── README.md                                 % This file
+└── Results/                                  % Generated outputs
     ├── model_architecture.png
     ├── training_progress.png
     ├── confusion_matrix.png
