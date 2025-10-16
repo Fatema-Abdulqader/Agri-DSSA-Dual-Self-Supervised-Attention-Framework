@@ -149,6 +149,7 @@ If you use this code in your research, please cite the original paper:
   title={Agri-DSSA: A Dual Self-Supervised Attention Framework for Multisource Crop Health Analysis Using Hyperspectral and Image-Based Benchmarks},
   author={Albalooshi, Fatema A.},
   journal={AgriEngineering},
+  publisher={MDPI}, 
   year={2025}
 }
 
